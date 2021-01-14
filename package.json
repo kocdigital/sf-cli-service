@@ -10,9 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/derozgurg/sf-frames.git",
-    "directory": "sf-cli-service"
-  },
+    "url": "https://github.com/kocdigital/sf-cli-service",
+-  },
   "keywords": [
     "vue",
     "cli"
