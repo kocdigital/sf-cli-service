@@ -1,0 +1,109 @@
+[
+  {
+    "path": "",
+    "redirect": "/Dashboard",
+    "name": "DefaultHome"
+  },
+  {
+    "path": "/Dashboard",
+    "title": "Dashboard",
+    "icon": "mdi-view-quilt",
+    "remote": "http://127.0.0.1:8082/pmes-micro-pages.min.js",
+    "name": "dashboard-page"
+  },
+  {
+    "path": "/Dashboard2",
+    "title": "ExamplePage",
+    "icon": "mdi-view-quilt",
+    "remote": "http://127.0.0.1:8082/pmes-micro-pages.min.js",
+    "name": "example-page"
+  },
+  {
+    "path": "/RootCause",
+    "icon": "mdi-view-quilt",
+    "title": "RootCause.Root_Cause",
+    "name": "RootCause"
+  },
+  {
+    "path": "/RootCause/:id",
+    "icon": "mdi-view-quilt",
+    "name": "RootCauseEdit"
+  },
+  {
+    "path": "/FaultCategory",
+    "icon": "mdi-view-quilt",
+    "title": "FaultCategory.Fault_Category",
+    "name": "FaultCategory"
+  },
+  {
+    "path": "/FaultCategory/:id",
+    "icon": "mdi-view-quilt",
+    "name": "FaultCategoryEdit"
+  },
+  {
+    "path": "/DowntimeCategory",
+    "icon": "mdi-view-quilt",
+    "title": "DowntimeCategory.Downtime_Category",
+    "name": "DowntimeCategory"
+  },
+  {
+    "path": "/DowntimeCategory/:id",
+    "icon": "mdi-view-quilt",
+    "name": "DowntimeCategoryEdit"
+  },
+  {
+    "path": "/Model",
+    "icon": "mdi-view-quilt",
+    "title": "Model.Model",
+    "name": "Model"
+  },
+  {
+    "path": "/Model/:id",
+    "icon": "mdi-view-quilt",
+    "name": "ModelEdit"
+  },
+  {
+    "path": "/Operation",
+    "icon": "mdi-view-quilt",
+    "title": "Operation.Operation",
+    "name": "Operation"
+  },
+  {
+    "path": "/Operation/:id",
+    "icon": "mdi-view-quilt",
+    "name": "OperationEdit"
+  },
+  {
+    "path": "/OperationMetric",
+    "icon": "mdi-view-quilt",
+    "title": "OperationMetric.Operation_Metric",
+    "name": "OperationMetric"
+  },
+  {
+    "path": "/OperationMetric/:id",
+    "icon": "mdi-view-quilt",
+    "name": "OperationMetricEdit"
+  },
+  {
+    "path": "/OperationDetail",
+    "icon": "mdi-view-quilt",
+    "title": "OperationDetail.Operation_Detail",
+    "name": "OperationDetail"
+  },
+  {
+    "path": "/OperationDetail/:id",
+    "icon": "mdi-view-quilt",
+    "name": "OperationDetailEdit"
+  },
+  {
+    "path": "/Material",
+    "title": "Material.Material",
+    "icon": "mdi-view-quilt",
+    "name": "Material"
+  },
+  {
+    "path": "/Material/:id",
+    "icon": "mdi-view-quilt",
+    "name": "MaterialEdit"
+  }
+]
