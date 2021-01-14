@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kocdigital/sf-cli-service",
--  },
+    "url": "https://github.com/kocdigital/sf-cli-service.git"
+  },
   "keywords": [
     "vue",
     "cli"
