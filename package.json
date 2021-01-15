@@ -1,6 +1,6 @@
 {
   "name": "@sf/sf-cli-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Koç Digital micro-front-end local service for vue-cli projects",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
