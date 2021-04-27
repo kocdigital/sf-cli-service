@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/kocdigital/sf-cli-service.git"
   },
+
   "keywords": [
     "vue",
     "cli"
@@ -19,7 +20,7 @@
   "author": "Özgür Çimen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
+    "url": "https://github.com/kocdigital/sf-cli-service/issues"
   },
   "dependencies": {
     "@intervolga/optimize-cssnano-plugin": "^1.0.5",
