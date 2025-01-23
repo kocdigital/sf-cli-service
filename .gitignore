@@ -7,6 +7,10 @@ coverage
 *.log
 .DS_Store
 
+lib/commands/serve/devpub
+lib/commands/serve/mainframe_xpublic.zip
+lib/commands/build/entry-wc-main.js
+
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
