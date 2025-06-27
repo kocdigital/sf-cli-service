@@ -5,4 +5,9 @@ node_modules
 test
 coverage
 *.log
+
+lib/commands/serve/devpub
+lib/commands/serve/mainframe_xpublic.zip
+lib/commands/build/entry-wc-main.js
+
 package-lock.json
