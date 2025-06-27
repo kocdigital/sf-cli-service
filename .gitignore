@@ -13,3 +13,4 @@ lib/commands/build/entry-wc-main.js
 
 package-lock.json
 yarn.lock
+pnpm-lock.yaml
